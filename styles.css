@@ -1,0 +1,17 @@
+*{
+    font-family: verdana, Arial, sans-serif;
+    line-height: l.5;
+}
+body{
+    background-color: #F28095;
+    margin: 0;
+}
+header footer{
+    width: 1000px;
+    align-content: center;
+}
+header{
+    height: 150px;
+    background-color: #141a1a;
+    color:#fff;
+}
